@@ -10,3 +10,7 @@ These are a few of my favorite things:
 - Not editing directly on GitHub
 - Getting sleep
 - getting boba
+<<<<<<< HEAD
+=======
+- tea
+>>>>>>> experiment
